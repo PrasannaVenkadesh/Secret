@@ -3,7 +3,7 @@
 2. Open your terminal and navigate to the folder where you downloaded this file.
    Eg:- cd ~/Downloads/
 
-3. python secret "You can read this"
+3.			python secret "You can read this"
 
 The above will produce a sequence of numbers with *'s and -'s.
 
