@@ -6,13 +6,13 @@ Usage :
 * Open your terminal and navigate to the folder where you downloaded this file.
    Eg:- cd ~/Downloads/
 
-*			python secret "You can read this"
+*			python secret.py "You can read this"
 
 The above will produce a sequence of numbers with *'s and -'s.
 
 * Now copy the output of the above and do like this
 			
-			python secret "PASTE_THE_COPIED_SEQUENCE"
+			python secret.py "PASTE_THE_COPIED_SEQUENCE"
 
 * The above will get back the original text.
 
