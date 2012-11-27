@@ -1,7 +1,7 @@
 Usage :
 --------
 
-* Download the 'secret' python script to your system
+* Download the 'secret' python script to your system from [here](https://github.com/downloads/PrasannaVenkadesh/Secret/secret.py "Download Secret.py")
 
 * Open your terminal and navigate to the folder where you downloaded this file.
    Eg:- cd ~/Downloads/
