@@ -1,3 +1,6 @@
+Usage :
+--------
+
 * Download the 'secret' python script to your system
 
 * Open your terminal and navigate to the folder where you downloaded this file.
@@ -20,7 +23,7 @@ Note:-
 
 You can actually customize the secret code as your wish.
 
-How
+How ?
 ---
 	
 Actually, if you open the 'secret' python file using your favourite text editor, you can find each alphabets are assigned numbers.
