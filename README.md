@@ -4,7 +4,8 @@
    Eg:- cd ~/Downloads/
 
 3. python secret "You can read this"
-	The above will produce a sequence of numbers with *'s and -'s.
+
+The above will produce a sequence of numbers with *'s and -'s.
 
 4. Now copy the output of the above and do like this
 	python secret "PASTE_THE_COPIED_SEQUENCE"
