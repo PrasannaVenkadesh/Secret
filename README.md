@@ -16,12 +16,12 @@ The above will produce a sequence of numbers with *'s and -'s.
 Written just for fun. You can share secret messages with your friends.
 
 Note:-
-===== 
+------
 
 You can actually customize the secret code as your wish.
 
 How
-===
+---
 	
-	Actually, if you open the 'secret' python file using your favourite text editor, you can find each alphabets are assigned numbers.
+Actually, if you open the 'secret' python file using your favourite text editor, you can find each alphabets are assigned numbers.
 Now you can change the numbers for each alphabets as you wish and send the modified file to your friend too. So you both only will know the secret codes to reveal the message. Have fun! 
