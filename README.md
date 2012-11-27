@@ -16,7 +16,7 @@ The above will produce a sequence of numbers with *'s and -'s.
 
 * The above will get back the original text.
 
-Written just for fun. You can share secret messages with your friends.
+Written just for fun. You can share secret messages with your friends in Public, leaving others in confusion, Try updating your Fb Status :-) .
 
 Note:-
 ------
